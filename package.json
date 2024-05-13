@@ -8,6 +8,7 @@
     "example": "src"
   },
   "scripts": {
+    "start":"ts-node ./src/app.ts",
     "test": "mocha --require ts-node/register test/**.spec.ts"
   },
   "repository": {
