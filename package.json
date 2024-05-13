@@ -1,0 +1,32 @@
+{
+  "name": "regression-testing",
+  "version": "1.0.0",
+  "description": "Regression testing is like double-checking software after changes to make sure old features still work while new ones function correctly ",
+  "main": "",
+  "scripts": {
+    "test": ""
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Testing-Guild/Regression-Testing.git"
+  },
+  "keywords": [
+    "regression",
+    "regression-testing",
+    "regression-test"
+  ],
+  "bugs": {
+    "url": "https://github.com/Testing-Guild/Regression-Testing/issues"
+  },
+  "homepage": "https://github.com/Testing-Guild/Regression-Testing#readme",
+  "author": "Mahdi",
+  "license": "MIT",
+  "devDependencies": {
+    "@types/chai": "^4.3.16",
+    "@types/mocha": "^10.0.6",
+    "chai": "^5.1.1",
+    "mocha": "^10.4.0",
+    "ts-node": "^10.9.2",
+    "typescript": "^5.4.5"
+  }
+}
