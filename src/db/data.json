@@ -22,5 +22,53 @@
       "username": "test",
       "password": "xczzx"
     }
+  },
+  {
+    "user": {
+      "username": "testuser",
+      "password": "securepassword"
+    }
+  },
+  {
+    "user": {
+      "username": "testuser",
+      "password": "securepassword"
+    }
+  },
+  {
+    "user": {
+      "username": "testuser",
+      "password": "securepassword"
+    }
+  },
+  {
+    "user": {
+      "username": "testuser",
+      "password": "securepassword"
+    }
+  },
+  {
+    "user": {
+      "username": "testuser",
+      "password": "securepassword"
+    }
+  },
+  {
+    "user": {
+      "username": "testuser",
+      "password": "securepassword"
+    }
+  },
+  {
+    "user": {
+      "username": "testuser",
+      "password": "securepassword"
+    }
+  },
+  {
+    "user": {
+      "username": "testuser",
+      "password": "securepassword"
+    }
   }
 ]
